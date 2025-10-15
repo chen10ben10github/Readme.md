@@ -75,11 +75,18 @@ I'm a curious technologist blending expertise in **IT Auditing**, **Ethical Hack
 
 ---
 
-## 🤝 Let's Connect
+<h3 align="center">🌐 Connect with Me</h3>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 🧠 [Learning Blog](https://yourwebsite.com)
-- 📫 Email: chen10.ben10@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/chen-ben-ba3b8825b/" target="_blank">
+    💼 LinkedIn
+  </a> |
+  <a href="https://yourwebsite.com" target="_blank">
+    🧠 Learning Blog
+  </a> |
+  📫 <a href="mailto:chen10.ben10@gmail.com">chen10.ben10@gmail.com</a>
+</p>
+
 
 ---
 
