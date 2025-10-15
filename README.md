@@ -1,4 +1,20 @@
-<h1 align="center">👋 Hey there, I'm Chen Ben</h1>
+<div align="center" style="margin-top: 40px;">
+  <img 
+    src="https://github.com/user-attachments/assets/77a71b8f-cbee-4fbf-8c49-9b62e6505a02" 
+    alt="PixelZone Café Dashboard Preview"
+    width="700" 
+    height="400"
+    style="border-radius: 16px; box-shadow: 0 0 25px rgba(0, 0, 0, 0.4);"
+  />
+  <h1 style="font-family: 'Poppins', sans-serif; 
+             color: #14ffec; 
+             margin-top: 20px; 
+             font-size: 28px; 
+             letter-spacing: 1px;">
+    👋 Hey there, I'm Chen Ben</h1>
+  </h1>
+</div>
+
 <p align="center">
   🚀 Technologist | 🛡️ Ethical Hacker | 📊 Dashboard Dev
 </p>
